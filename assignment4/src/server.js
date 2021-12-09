@@ -4,7 +4,7 @@ const newConnection = require('./DBConnector');
 const cors = require('cors')
 const cookieParser = require('cookie-parser');
 const path = require('path');
-const e = require('express');
+
 
 app.use(express.urlencoded({
     extended: true
