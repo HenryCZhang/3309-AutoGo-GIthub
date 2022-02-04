@@ -38,7 +38,7 @@ class App extends Component {
         <nav className="navbar navbar-expand navbar-dark bg-dark">
           <div onClick={logout} className="container-fluid">
             <Link to={"/"} className="navbar-brand">
-              AutoGo
+                AutoService
             </Link>
 
             <div className="navbar-nav ms-auto">

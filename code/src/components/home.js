@@ -8,7 +8,7 @@ export default class Home extends Component {
           <div class="row justify-content-md-center mt-3 mb-3">
             <div class="col_back">
               <h1>
-                Welcome to <small class="text-muted">AutoGo</small>
+                Welcome to <small class="text-muted">AutoService</small>
               </h1>
               <div class="page-header">
                 <p class="lead"></p>

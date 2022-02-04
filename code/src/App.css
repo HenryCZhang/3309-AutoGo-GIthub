@@ -56,12 +56,6 @@ h1 {
   font-size: 70px;
 }
 
-.signup_con {
-  background-image: url(bgSignup.png);
-  padding: 100px;
-  margin: 0px;
-  overflow: auto;
-}
 
 .staff {
   background-color: #61dafb;
